@@ -42,6 +42,7 @@ console.log(chess.pgn());
 - [chess.com](http://www.chess.com/)
 - [The Internet Chess Club (ICC)](http://www.chessclub.com/)
 - [lichess](http://lichess.org/tv)
+- [The Free Chess Club](http://www.freechess.club)
 - [Redbull - Battle for the Queen](http://battleforthequeen.redbull.com/)
 - [Asm.js Chess Battle](https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/chess/)
 - [3D Hartwig Chess](http://creativejs.com/2012/12/3d-hartwig-chess/)
@@ -53,6 +54,7 @@ console.log(chess.pgn());
 - [angular-chess](http://theborakompanioni.github.io/angular-chess)
 - [Chessable](https://www.chessable.com)
 - [SlimChess](https://slimchess.com/now)
+
 
 Need a user interface?  Try Chris Oakman's excellent
 [chessboard.js](http://chessboardjs.com) library.  See
